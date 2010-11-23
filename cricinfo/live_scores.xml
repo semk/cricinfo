@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Cricinfo Live Scores</title>
+<ttl>2</ttl>
+<link>http://www.cricinfo.com</link>
+<description>Latest scores from Cricinfo</description>
+<copyright>(c)Cricinfo</copyright>
+<language>en-gb</language>
+<pubDate>Tue, 23 Nov 2010 18:58:03 +0000</pubDate>
+
+<item>
+<title>Pakistan 434/10  v South Africa 584/9 &amp;  173/4 *</title>
+<link>http://www.cricinfo.com/ci/engine/match/461572.html?CMP=OTC-RSS</link>
+<description>Pakistan 434/10  v South Africa 584/9 &amp;  173/4 *</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/461572.html</guid> </item>
+<item>
+<title>Sri Lanka 84/3 * v West Indies</title>
+
+<link>http://www.cricinfo.com/ci/engine/match/464988.html?CMP=OTC-RSS</link>
+<description>Sri Lanka 84/3 * v West Indies</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/464988.html</guid> </item>
+<item>
+<title>Victoria v Queensland</title>
+<link>http://www.cricinfo.com/ci/engine/match/474064.html?CMP=OTC-RSS</link>
+<description>Victoria v Queensland</description>
+ <guid>http://www.cricinfo.com/ci/engine/match/474064.html</guid> </item>
+
+</channel>
+</rss>
+
