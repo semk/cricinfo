@@ -4,17 +4,15 @@ ESPNcricinfo is the largest cricket-related website. It includes news and articl
 
 This Python libary provides an api for accessing information from CricInfo like live scores, news updates and player profiles.
 
-##*Usage*
+## Usage
 
-```python
-# instantiate
-matches = CricInfo()
-# iterate though matches
-for match in matches
-    print match.title
-    print match.description
-    print match.link
-    print match.guid
-```
+    # instantiate
+    matches = CricInfo()
+    # iterate though matches
+    for match in matches
+        print match.title
+        print match.description
+        print match.link
+        print match.guid
 
 Simple as that !
