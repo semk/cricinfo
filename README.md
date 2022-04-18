@@ -11,7 +11,7 @@ This Python libary provides an api for accessing information from CricInfo like 
     # iterate though matches
     for match in matches:
         print match.title
-        print match.description
+        print match.description 
         print match.link
         print match.guid
 
